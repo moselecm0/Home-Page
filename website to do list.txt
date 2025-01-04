@@ -1,0 +1,36 @@
+side bar ------------------------------------------------------------------------
+- title not evenly spaced
+- title gets cut off by nav bar
+- title logo change
+- smaller buttons? maybe might get fixed by scale down or default zoom change
+
+
+nav bar ----------------------------
+- profile picutre to the right of username
+- figure out how to change
+- ^ dropdown carrot to the left
+- notification symbol to the right
+- ^ dropdown carrot to the left
+
+
+global ----------------------------
+- default page zoom or scale needs to be smaller
+- add anim to drop downs
+
+
+
+functionality -----------------------
+- add accounts 
+- to do lists strikethrough and checkboxes
+- list able to be wrote on
+- file upload drop box
+- administrative capabilities from website?
+
+
+ideas for webpage -------------------------------------------------------
+- recipes
+- to do lists
+- notes
+- file drop box
+- finances
+- bucket lists
